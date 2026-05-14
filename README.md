@@ -14,9 +14,8 @@ Sou um Desenvolvedor Full Stack motivado por transformar ideias em soluções re
 * **Arquitetura de Software**: Especialista em PWAs, APIs e integração de sistemas modulares.
 * **Nona Arte**: Gestor da plataforma Quadrinhos Angola, focado na digitalização e curadoria de conteúdos.
 
-### Projetos Principais
+### Projeto Principal
 * **[Duck Stack](https://github.com/JoseIzataQuinvula/duck-stack)**: Ecossistema de desenvolvimento e portfólio técnico oficial.
-* **[Kwanza Ninth Art](https://github.com/JoseIzataQuinvula/kwanza-ninth-art)**: Hub digital para publicação global de banda desenhada.
 
 ### Contacto e Links
 * **Portfólio Vivo**: [joseizataquinvula.pages.dev](https://joseizataquinvula.pages.dev)
