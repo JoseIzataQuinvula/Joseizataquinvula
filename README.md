@@ -17,7 +17,7 @@ Sou um Desenvolvedor Full Stack motivado por transformar ideias em soluções re
 ### Projeto Principal
 * **[Duck Stack](https://github.com/JoseIzataQuinvula/duck-stack)**: Ecossistema de desenvolvimento e portfólio técnico oficial.
 
-### Contacto e Links
-* **Portfólio Vivo**: [joseizataquinvula.pages.dev](https://joseizataquinvula.pages.dev)
-* **Email Profissional**: joseizataquinvula885@gmail.com
+### Contacto Directo
+* **E-mail**: joseizataquinvula885@gmail.com
+* **Website**: [joseizataquinvula.pages.dev](https://joseizataquinvula.pages.dev)
 * **Localização**: Luanda, Angola
